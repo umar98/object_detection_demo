@@ -1,7 +1,7 @@
 <annotation>
   <folder>train</folder>
-  <filename>16</filename>
-  <path>C:\Users\umara\object_detection_demo\data\images\train\16.jpg</path>
+  <filename>19</filename>
+  <path>C:\Users\umara\object_detection_demo\data\images\train\19.jpg</path>
   <source>
     <database>Unknown</database>
   </source>
@@ -17,10 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>235</xmin>
-      <ymin>147</ymin>
-      <xmax>585</xmax>
-      <ymax>470</ymax>
+      <xmin>204</xmin>
+      <ymin>97</ymin>
+      <xmax>514</xmax>
+      <ymax>508</ymax>
     </bndbox>
   </object>
 </annotation>
